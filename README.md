@@ -29,7 +29,7 @@ The following applications are currently available:</br></br>
 </tr>
 
 <tr>
-<td><td><img width="170" src="http://www.r-project.org/Rlogo.jpg" border="0"></td></td>
+<td><img width="170" src="http://www.r-project.org/Rlogo.jpg" border="0"><td>
 <td>R is a free software environment for statistical computing and graphics. R provides a wide variety of statistical (linear and nonlinear modelling, classical statistical tests, time-series analysis, classification, clustering, etc) and graphical techniques, and is highly extensible.</td>
 </tr>
 
