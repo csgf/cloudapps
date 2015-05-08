@@ -24,17 +24,23 @@ The following applications are currently available:</br></br>
 <table border="0">
 <tr>
 <td><img width="300" src="http://www.gnu.org/software/octave/images/logo.png" border="0"></td>
-<td>GNU Octave is a high-level interpreted language, primarily intended for numerical computations. It provides capabilities for the numerical solution of linear and nonlinear problems, and for performing other numerical experiments. It also provides extensive graphics capabilities for data visualization and manipulation.</td>
+<td><p align="justify">
+GNU Octave is a high-level interpreted language, primarily intended for numerical computations. It provides capabilities for the numerical solution of linear and nonlinear problems, and for performing other numerical experiments. It also provides extensive graphics capabilities for data visualization and manipulation.
+</p></td>
 </tr>
 
 <tr>
 <td><img width="300" src="http://www.r-project.org/Rlogo.jpg" border="0"></td>
-<td>R is a free software environment for statistical computing and graphics. R provides a wide variety of statistical (linear and nonlinear modelling, classical statistical tests, time-series analysis, classification, clustering, etc) and graphical techniques, and is highly extensible.</td>
+<td><p align="justify">
+R is a free software environment for statistical computing and graphics. R provides a wide variety of statistical (linear and nonlinear modelling, classical statistical tests, time-series analysis, classification, clustering, etc) and graphical techniques, and is highly extensible.
+</p></td>
 </tr>
 
 <tr>
 <td><img width="300" src="https://science-gateway.chain-project.eu/cloudapps-portlet/images/helloworld.png" border="0"></td>
-<td>This application just outputs the name of the Virtual Machine where the job has been executed.</td>
+<td><p align="justify">
+This application just outputs the name of the Virtual Machine where the job has been executed.
+</p></td>
 </tr>
 </table>
 </p>
