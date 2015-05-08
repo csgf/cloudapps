@@ -24,12 +24,12 @@ The following applications are currently available:</br></br>
 
 <table border="0">
 <tr>
-<td><img width="250" src="http://www.gnu.org/software/octave/images/logo.png" border="0"></td>
+<td><img width="350" src="http://www.gnu.org/software/octave/images/logo.png" border="0"></td>
 <td>GNU Octave is a high-level interpreted language, primarily intended for numerical computations. It provides capabilities for the numerical solution of linear and nonlinear problems, and for performing other numerical experiments. It also provides extensive graphics capabilities for data visualization and manipulation.</td>
 </tr>
 
 <tr>
-<td><img width="250" src="http://www.r-project.org/Rlogo.jpg" border="0"><td>
+<td><img width="350" src="http://www.r-project.org/Rlogo.jpg" border="0"><td>
 <td>R is a free software environment for statistical computing and graphics. R provides a wide variety of statistical (linear and nonlinear modelling, classical statistical tests, time-series analysis, classification, clustering, etc) and graphical techniques, and is highly extensible.</td>
 </tr>
 
