@@ -18,7 +18,6 @@ OCCI is a Protocol and API for all kinds of Management tasks. OCCI was originall
 
 -  Catania Science Gateways Framework.</br></br>
 
-</br></br>
 The following applications are currently available:</br></br>
 
 <table border="0">
