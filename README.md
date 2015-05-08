@@ -9,14 +9,25 @@
 <p align="justify">
 With this service it is possible to execute scientific applications on Virtual Machines (VMs) deployed on standard-based federated cloud. The present service is based on the following standards and software frameworks:</br></br>
 
+<table border="0">
+<tr>
+<td>
 <a href="http://occi-wg.org"><img width="170" src="http://occi-wg.org/wp-content/uploads/2010/12/New-Font-Occi-horiz.-with-tagline-smalltrans.png" 
 border="0" title="Open Cloud Computing Interface | Open Standard | Open Community"></a>
-
+</td>
+<td></td>
+<td>
 <a href="http://software.in2p3.fr/jsaga"><img width="170" src="http://software.in2p3.fr/jsaga/latest-release/images/logo-jsaga.png" 
 border="0" title="JSAGA"></a>
-
+</td>
+<td></td>
+<td>
 <a href="http://software.in2p3.fr/jsaga"><img width="100" src="http://www.digitalmeetsculture.net/wp-content/uploads/2013/05/Catania-Science-Gateway-Framework.png" 
 border="0" title="The Catania Science Gateway Framework"></a>
+</td>
+</tr>
+</table>
+
 </br></br>
 
 The following applications are currently available:</br></br>
