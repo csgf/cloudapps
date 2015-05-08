@@ -17,7 +17,7 @@ border="0" title="Open Cloud Computing Interface | Open Standard | Open Communit
 </td>
 <td></td>
 <td>
-<a href="http://software.in2p3.fr/jsaga"><img width="170" src="http://software.in2p3.fr/jsaga/latest-release/images/logo-jsaga.png" 
+<a href="http://software.in2p3.fr/jsaga"><img width="250" src="http://software.in2p3.fr/jsaga/latest-release/images/logo-jsaga.png" 
 border="0" title="JSAGA"></a>
 </td>
 <td></td>
