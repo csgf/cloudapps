@@ -9,14 +9,14 @@
 <p align="justify">
 With this service it is possible to execute scientific applications on Virtual Machines (VMs) deployed on standard-based federated cloud.</br></br>
 
-The present service is based on the following standards and software frameworks:
+The present service is based on the following standards and software frameworks:</br></br>
 
 - OCCI interface which comprises a set of open community-led specifications delivered through the Open Grid Forum.
-OCCI is a Protocol and API for all kinds of Management tasks. OCCI was originally initiated to create a remote management API for IaaS model based Services, allowing for the development of interoperable tools for common tasks including deployment, autonomic scaling and monitoring. It has since evolved into a flexible API with a strong focus on integration, portability, interoperability and innovation while still offering a high degree of extensibility. The current release of the OCCI is suitable to serve many other models in addition to IaaS, including PaaS and, in particular, SaaS as shown by the present service. 
+OCCI is a Protocol and API for all kinds of Management tasks. OCCI was originally initiated to create a remote management API for IaaS model based Services, allowing for the development of interoperable tools for common tasks including deployment, autonomic scaling and monitoring. It has since evolved into a flexible API with a strong focus on integration, portability, interoperability and innovation while still offering a high degree of extensibility. The current release of the OCCI is suitable to serve many other models in addition to IaaS, including PaaS and, in particular, SaaS as shown by the present service.</br></br>
 
-- JSAGA is a Java implementation of the Simple API for Grid Applications (SAGA) specification made by the Open Grid Forum (OGF) 
+- JSAGA is a Java implementation of the Simple API for Grid Applications (SAGA) specification made by the Open Grid Forum (OGF).</br></br>
 
--  Catania Science Gateways Framework 
+-  Catania Science Gateways Framework.</br></br>
 
 </br></br>
 The following applications are currently available:</br></br>
