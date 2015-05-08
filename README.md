@@ -9,6 +9,7 @@
 <p align="justify">
 With this service it is possible to execute scientific applications on Virtual Machines (VMs) deployed on standard-based federated cloud. The present service is based on the following standards and software frameworks:</br></br>
 
+<p align="justify">
 <table border="0">
 <tr>
 <td>
@@ -27,6 +28,7 @@ border="0" title="The Catania Science Gateway Framework"></a>
 </td>
 </tr>
 </table>
+</p>
 
 The following applications are currently available:</br></br>
 
