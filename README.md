@@ -28,8 +28,6 @@ border="0" title="The Catania Science Gateway Framework"></a>
 </tr>
 </table>
 
-</br></br>
-
 The following applications are currently available:</br></br>
 
 <table border="0">
