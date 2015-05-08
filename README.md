@@ -16,7 +16,7 @@ OCCI is a Protocol and API for all kinds of Management tasks. OCCI was originall
 
 <img width="170" src="http://software.in2p3.fr/jsaga/latest-release/images/logo-jsaga.png" border="0"> a Java implementation of the Simple API for Grid Applications (SAGA) specification made by the Open Grid Forum (OGF).</br>
 
-<img width="170" src="http://www.digitalmeetsculture.net/wp-content/uploads/2013/05/Catania-Science-Gateway-Framework.png" border="0">
+<img width="100" src="http://www.digitalmeetsculture.net/wp-content/uploads/2013/05/Catania-Science-Gateway-Framework.png" border="0">
 
 Catania Science Gateways Framework.</br></br>
 
