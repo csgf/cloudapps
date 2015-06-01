@@ -47,9 +47,17 @@ As soon as the portlet has been successfully deployed on the Science Gateway the
 
 **Serial Number**: The MD5SUM of the robot certificate to be used for this e-Infrastructure;
 
-In the following figure is shown how the portlet has been configured to run simulation on the Italian e-Infrastructure.
+.. _CHAIN_REDS: http://www.chain-project.eu/
+.. _1: http://science-gateway.chain-project.eu
 
-.. image:: images/CLOUDAPPS_settings.jpg
+In the following figure is shown how the portlet has been configured to run simulation on the CHAIN_REDS Cloud Testbed from the project Science Gateway [1_].
+
+.. image:: images/CLOUDAPPS_settings1.jpg
+   :align: center
+
+In the following figure is shown how the portlet has been configured to run simulation on the EGI Federated Cloud Infrastructure from the project Science Gateway [1_].
+
+.. image:: images/CLOUDAPPS_settings2.jpg
    :align: center
 
 2.) To configure the application, the following settings have to be provided:
@@ -62,12 +70,9 @@ In the following figure is shown how the portlet has been configured to run simu
 
 **Sender**: The FROM e-mail address to send notification messages about the jobs execution to users;
 
-.. _1: http://science-gateway.chain-project.eu
-.. _CHAIN_REDS: http://www.chain-project.eu/
-
 In the figure below is shown how the application settings have been configured to run on the CHAIN_REDS_ Science Gateway [1_].
 
-.. image:: images/CLOUDAPPS_settings2.jpg
+.. image:: images/CLOUDAPPS_settings.jpg
    :align: center
 
 ============
