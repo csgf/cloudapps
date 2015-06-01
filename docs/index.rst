@@ -10,11 +10,10 @@ With this service it is possible to execute scientific applications on Virtual M
 
 The present service is based on the following standards and software frameworks: 
 
-.. |CSGF| image:: images/CataniaScienceGateways.png
 .. |JSAGA| image:: images/logo-jsaga.png
 .. |OCCI| image:: images/OCCI-logo.png
 
-|JSAGA| |OCCI| |CSGF|
+|JSAGA||OCCI|
 
 ============
 Installation
