@@ -13,7 +13,7 @@ The present service is based on the following standards and software frameworks:
 .. |JSAGA| image:: images/logo-jsaga.png
 .. |OCCI| image:: images/OCCI-logo.png
 
-|JSAGA||OCCI|
+|JSAGA| |OCCI|
 
 ============
 Installation
@@ -48,13 +48,14 @@ As soon as the portlet has been successfully deployed on the Science Gateway the
 
 .. _CHAIN_REDS: http://www.chain-project.eu/
 .. _1: http://science-gateway.chain-project.eu
+.. _2: https://www.egi.eu/infrastructure/cloud/
 
 In the following figure is shown how the portlet has been configured to run simulation on the CHAIN_REDS Cloud Testbed from the project Science Gateway [1_].
 
 .. image:: images/CLOUDAPPS_settings1.jpg
    :align: center
 
-In the following figure is shown how the portlet has been configured to run simulation on the EGI Federated Cloud Infrastructure from the project Science Gateway [1_].
+In the following figure is shown how the portlet has been configured to run simulation on the EGI Federated Cloud Infrastructure [2_] from the project Science Gateway [1_].
 
 .. image:: images/CLOUDAPPS_settings2.jpg
    :align: center
@@ -82,7 +83,7 @@ To run the simulations the user has to:
 
 - click on the *third* accordion of the portlet,
 
-- select the VM template to run on the EGI FedCloud or the CHAIN-REDS Cloud Testbed as shown in the below figure:
+- select the VM to run on the available Cloud Testbed as shown in the below figure:
 
 .. image:: images/CLOUDAPPS_inputs.jpg
       :align: center
@@ -93,34 +94,29 @@ Each simulation will produce:
 
 - *std.err*: the standard error file;
 
-- *nuclemd.log*: the NUCLEMD log file;
+- *.tar.gz*: the output results.
 
-- *.tar.gz*: containing the NUCLEMD output results.
+.. _Rplot: results/Rplots.pdf
 
 A typical simulation produces, at the end, the following files:
 
 .. code:: bash
 
-        ]$ tree NUCLEMDSimulationStarted_1826/
-        NUCLEMDSimulationStarted_1826/
+        ]$ tree Pleaseinserthereyourdescription_148684/
+        Pleaseinserthereyourdescription_148684/
+        ├── results.tar.gz
         ├── std.err
-        ├── std.out
-        ├── output.README
-        ├── nuclemd.log
-        └── results.tar.gz
+        └── std.out
 
 The list of files produced during the run are the following:
 
 .. code:: bash
 
         ]$ tar ztvf results.tar.gz
-        18O40Ca_out
-        18O40Ca_t_out
-        fort.6
         output.README
-        POT.DAT
-        rp_out_runco.conf
-        seed_dat_runco.conf
+        Rplots.pdf
+
+For further detail, please download the PDF file Rplots_
 
 ============
 Support
