@@ -96,7 +96,7 @@ Each simulation will produce:
 
 - *.tar.gz*: the output results.
 
-.. _Rplot: results/Rplots.pdf
+.. _2: results/Rplots.pdf
 
 A typical simulation produces, at the end, the following files:
 
@@ -116,7 +116,7 @@ The list of files produced during the run are the following:
         output.README
         Rplots.pdf
 
-For further detail, please download the PDF file Rplots_
+For further detail, please download the PDF file from here [2_]
 
 ============
 Support
