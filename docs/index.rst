@@ -78,11 +78,7 @@ To run the simulations the user has to:
 
 - click on the *third* accordion of the portlet,
 
-- select the binary release
-
-- upload the input files OR use the pre-configured demo ones, and
-
-- select the Max Wall Clock Time (WCT) requested for the execution as shown in the below figure:
+- select the VM template to run on the EGI FedCloud or the CHAIN-REDS Cloud Testbed as shown in the below figure:
 
 .. image:: images/CLOUDAPPS_inputs.jpg
       :align: center
