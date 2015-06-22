@@ -128,5 +128,5 @@ Please feel free to contact us any time if you have any questions or comments.
  
  Roberto BARBERA - Italian National Institute of Nuclear Physics (INFN_),
 
- Giuseppe LA ROCCA - Italian National Institute of Nuclear Physics (INFN_),
+ Giuseppe LA ROCCA - Italian National Institute of Nuclear Physics (INFN_)
  
